@@ -27,7 +27,7 @@ pacman_speed = 5
 enemy_radius = 15
 enemy_x = random.randint(0, screen_width)
 enemy_y = random.randint(0, screen_height)
-enemy_speed = 5
+enemy_speed = 7 
 
 # Coin properties
 coin_radius = 10
